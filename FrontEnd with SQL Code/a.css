@@ -1,0 +1,21 @@
+.tables {
+    margin: auto; 
+    float: left;
+	width: 60%;
+	padding: 50px;
+	display: inline-block;
+}
+
+body {
+	background-color: #acc0e0;
+}
+
+.box {
+  border: 1px solid #5D6063;
+  width: 120px;
+  height: .1px;
+}
+.button {
+	width: 200px;
+	margin-left :18%; 
+}
